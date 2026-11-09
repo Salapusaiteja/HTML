@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Let's see wt will happen</title>
+</head>
+<body>
+    <header>
+       <h1> SAi TejA</h1>
+    </header>
+    <main>
+        <section>
+            schooling :- S V V P EM H SCHOOL
+         </section>
+        <section>
+            college : WISTM
+        </section>
+        <article>
+            I'm interested in acting but I'm searching for the job to secure my future
+        </article>
+        <aside>
+            this is an ad
+        </aside>
+    </main>
+    <footer>
+       <i> Salapu </i>
+    </footer>
+    <p>
+        Hello buddy
+    </p>
+    <h1>
+        the big one
+    </h1>
+    <h2>
+        the smaller one
+    </h2>
+    <h3>
+        even smaller
+    </h3>
+    <h4>
+        even more smaller
+    </h4>
+    <h5>
+        even even more smaller
+    </h5>
+    <h6>
+        the smallest one
+    </h6>
+    <hr>
+    <ul>
+        <li>
+            Fruits
+            <ul>
+            <li>
+                apple
+            </li>
+            <li>
+                orange
+            </li>
+            <li>
+                banana
+            </li>
+            </ul>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            Vegetables
+            <ul>
+            <li>
+                spinach
+            </li>
+            <li>
+                brinjal
+            </li>
+            <li>
+                tomato
+            </li></ul>
+        </li>
+    </ul>
+    <ol>
+        <li>
+            Movies
+            <ol>
+                <li>
+                    Ramayana
+                </li>
+                <li>                    Scene </li><li>
+                
+                    Mahasakthi</li>
+                </li>
+            </ol>
+        </li>
+    </ol>
+ <ol>
+    <li>  
+    Lead Actors
+        <ol>
+            <li>
+                Ranbir Kapoor,Sai Pallavi,Yash
+            </li>
+            <li>
+                Surya,Nazriya,Naslen
+            </li>
+            <li>
+                Nayanathara
+            </li>
+        </ol>
+        </li>
+        </ol>
+    <table>
+        <caption><b> student details</b></caption>
+                <tr>
+            <th>
+                name
+            </th>
+            <th>
+                roll no
+            </th>
+            <tr>
+                <td>
+                    sai
+                </td>
+                <td>
+                    18
+                </td>
+            </tr>
+        </tr>
+    </table>
+    <div>
+        this represents a div tag
+    </div>
+    <span>
+        this represents a span tag
+    </span>
+    <br>
+    <a href=" https://www.flipkart.com/" target="_main">Flipkart</a>
+    <br>
+    <a href="https://www.amazon.in/" target="_main"> Amazon link</a>
+    <br>
+    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAgyn3iUkvKmRo6-WyZtobc1jc9TvXevialdsAnczWg&s=10 " alt ="bike image" height="150">
+    <br>
+    <button>
+        dont click
+    </button>
+    <br>
+    <b> u did it</b><!--comment-->
+    <br>
+    <i> man</i>
+    <br>
+    <u> proud of u</u>
+    <br>
+    <hr>
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfs56F28g2rSrp295Vlp05Okhi7i7SdUclnqfC2Bwsog&s=10" alt="trading">
+     <p>
+        <u>html learning completely thorugh youtube channels html learning completely thorugh youtube channels html learning completely thorugh youtube channels</u>
+     </p>
+     <p>
+        A
+        <sup>
+            n
+        </sup>
+        *b
+     </p>
+     <p>
+        H
+        <sub>
+            2
+        </sub>
+        O
+     </p>
+</body>
+</html>
