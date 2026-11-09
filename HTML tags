@@ -9,6 +9,10 @@
     <header>
        <h1> SAi TejA</h1>
     </header>
+    <footer>
+       <i> Salapu </i>
+    </footer>
+<hr>
     <main>
         <section>
             schooling :- S V V P EM H SCHOOL
@@ -23,9 +27,7 @@
             this is an ad
         </aside>
     </main>
-    <footer>
-       <i> Salapu </i>
-    </footer>
+<hr>
     <p>
         Hello buddy
     </p>
@@ -79,6 +81,7 @@
             </li></ul>
         </li>
     </ul>
+<hr>
     <ol>
         <li>
             Movies
@@ -109,7 +112,8 @@
         </ol>
         </li>
         </ol>
-    <table>
+<hr>    
+<table>
         <caption><b> student details</b></caption>
                 <tr>
             <th>
@@ -128,12 +132,14 @@
             </tr>
         </tr>
     </table>
+<hr>
     <div>
         this represents a div tag
     </div>
     <span>
         this represents a span tag
     </span>
+<hr>
     <br>
     <a href=" https://www.flipkart.com/" target="_main">Flipkart</a>
     <br>
@@ -141,11 +147,12 @@
     <br>
     <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAgyn3iUkvKmRo6-WyZtobc1jc9TvXevialdsAnczWg&s=10 " alt ="bike image" height="150">
     <br>
+<hr>
     <button>
         dont click
     </button>
     <br>
-    <b> u did it</b><!--comment-->
+    <b> u did it</b> <!--comment-->
     <br>
     <i> man</i>
     <br>
@@ -156,6 +163,7 @@
      <p>
         <u>html learning completely thorugh youtube channels html learning completely thorugh youtube channels html learning completely thorugh youtube channels</u>
      </p>
+<hr>
      <p>
         A
         <sup>
@@ -170,5 +178,8 @@
         </sub>
         O
      </p>
+    <pre>
+        This             is         a       sample         text
+     </pre>
 </body>
 </html>
