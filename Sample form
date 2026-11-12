@@ -1,0 +1,43 @@
+<h1>HTML sample form</h1>
+     <form action="action.php">
+        <h3>Name</h3>     
+        <input type="text" placeholder="Enter your name">
+        <h3>Password</h3>
+        <input type="password" placeholder="Enter password">
+        <br>
+            <h3>Choose your class</h3>
+        <label for="1001"> <!-- used for radio buttons-->
+            <input type="radio" value="class 11" name="class" id="1001">class 11
+        </label>
+        <br>
+        <label for="1002">
+            <input type="radio" value="class 12" name="class" id="1002">class 12
+        </label>
+        <h3>
+            Choose your favourite subject
+        </h3>
+        <label for="math">  <!-- used for checkbox-->
+            <input type="checkbox" value="math" name = "subject" id="math">math
+        </label>
+        <br>
+        <label for="physics">
+            <input type="checkbox" value="physics" name = "subject" id="physics">physics
+        </label>
+        <br>
+        <label for="chemistry">
+            <input type="checkbox" value="chemistry" name = "subject" id="chemistry">chemistry
+        </label>
+        <br>
+        <h3> Choose your city</h3>
+        <select name="city"> <!-- used for dropdown-->
+            <option value="Hyderabad">Hyderabad</option>
+            <option value="Vizag">Vizag</option>
+            <option value="Chennai">Chennai</option>
+            <option value="Coimbatore">Coimbatore</option>
+        </select>
+        <br>
+        <br>
+        <textarea name="feedback" id="feedback" placeholder="Please write your valuable feedback here" cols="50" rows="18"></textarea>
+        <br>
+        <input type="Submit" value="Submit">
+     </form>
