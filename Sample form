@@ -6,7 +6,11 @@
         <input type="password" placeholder="Enter password">
         <br>
             <h3>Choose your class</h3>
-        <label for="1001"> <!-- used for radio buttons-->
+        <label for="1000"> <!-- used for radio buttons-->
+            <input type="radio" value="class 10" name="class" id="1000">class 10
+        </label>
+        <br>
+        <label for="1001">
             <input type="radio" value="class 11" name="class" id="1001">class 11
         </label>
         <br>
