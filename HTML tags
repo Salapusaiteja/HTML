@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Let's see wt will happen</title>
+    <title>HTML tags usage</title>
 </head>
 <body>
     <header>
-       <h1> SAi TejA</h1>
+       <b> SAi TejA</b>
     </header>
     <footer>
        <i> Salapu </i>
@@ -141,9 +141,9 @@
     </span>
 <hr>
     <br>
-    <a href=" https://www.flipkart.com/" target="_main">Flipkart</a>
+    <a href=" https://www.flipkart.com/" target="_main">Flipkart</a> <!--opens flipkart website in new tab-->
     <br>
-    <a href="https://www.amazon.in/" target="_main"> Amazon link</a>
+    <a href="https://www.amazon.in/" > Amazon link</a> <!--opens amazon website in same tab-->
     <br>
     <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAgyn3iUkvKmRo6-WyZtobc1jc9TvXevialdsAnczWg&s=10 " alt ="bike image" height="150">
     <br>
@@ -171,21 +171,19 @@
         </sup>
         *b
      </p>
-     <p>
+     <!-- used for subscript -->
         H
         <sub>
             2
         </sub>
         O
      </p>
-    <pre>
+     <hr>
+     <pre>
         This             is         a       sample         text
      </pre>
-<hr>
+     <hr>
      <h3>HTML colour codes website</h3>
      <div>
         <iframe height = "260" width= "530"src="https://htmlcolorcodes.com/"></iframe>
      </div>
-     <br>
-</body>
-</html>
