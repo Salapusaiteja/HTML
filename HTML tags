@@ -137,7 +137,7 @@
         this represents a div tag <!--occupies entire line space-->
     </div>
     <span>
-        this represents a span tag
+        this represents a span tag <!--occupies only alloted space-->
     </span>
 <hr>
     <br>
