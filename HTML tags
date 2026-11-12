@@ -115,7 +115,7 @@
 <hr>    
 <table>
         <caption><b> student details</b></caption>
-                <tr>
+            <tr>
             <th>
                 name
             </th>
@@ -134,7 +134,7 @@
     </table>
 <hr>
     <div>
-        this represents a div tag
+        this represents a div tag <!--occupies entire line space-->
     </div>
     <span>
         this represents a span tag
